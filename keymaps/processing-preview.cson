@@ -1,3 +1,5 @@
-'atom-workspace':
+'.platform-darwin atom-workspace':
   'shift-cmd-alt-p': 'processing-preview:toggle'
+
+'.platform-win32 atom-workspace, .platform-linux atom-workspace':
   'shift-ctrl-alt-p': 'processing-preview:toggle'
