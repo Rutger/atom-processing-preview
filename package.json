@@ -2,7 +2,7 @@
   "name": "processing-preview",
   "main": "./lib/processing-preview",
   "author": "Rutger Schimmel",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Live Processing.js preview",
   "keywords": [
     "processing",
