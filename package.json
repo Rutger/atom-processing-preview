@@ -10,8 +10,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-space-pen-views": "^2.2.0",
-    "loophole": "^1.1.0",
-    "processing-js": "^1.6.2"
+    "atom-space-pen-views": "2.2.0",
+    "loophole": "1.1.0",
+    "processing-js": "1.6.2"
   }
 }
