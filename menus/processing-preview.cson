@@ -2,9 +2,12 @@
 	{
 		'label': 'Packages'
 		'submenu': [
-			'label': 'Processing'
+			'label': 'Processing Preview'
 			'submenu': [
-				{ 'label': 'Toggle Preview', 'command': 'processing-preview:toggle' }
+				{
+					'label': 'Toggle'
+					'command': 'processing-preview:toggle'
+				}
 			]
 		]
 	}

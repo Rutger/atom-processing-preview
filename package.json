@@ -1,9 +1,16 @@
 {
   "name": "processing-preview",
-  "main": "./lib/main",
+  "main": "./lib/processing-preview",
   "author": "Rutger Schimmel",
   "version": "0.0.0",
   "description": "Live Processing.js preview",
+  "keywords": [
+    "processing",
+    "preview"
+  ],
+  "activationCommands": {
+    "atom-workspace": "processing-preview:toggle"
+  },
   "repository": "https://github.com/indri-indri/atom-processing-preview",
   "license": "MIT",
   "engines": {
