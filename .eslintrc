@@ -18,6 +18,7 @@
     "indent": ["error", "tab"],
     "semi": "error",
     "comma-dangle": ["error", "always-multiline"],
-    "no-unused-vars": "error"
+    "no-unused-vars": "error",
+    "eqeqeq": ["error", "always"]
   }
 }
