@@ -1,5 +1,5 @@
 ## 0.1.1 - Bug fixes
-* Fix fullscreen support
+* Fix `fullScreen()` support
 * Escape `pixelDensity()`
 * Fix `println()` not working
 
