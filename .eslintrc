@@ -5,8 +5,7 @@
   },
   "globals": {
     "atom": true,
-    "Promise": true,
-    "Processing": true
+    "Promise": true
   },
   "parserOptions": {
     "sourceType": "module",
