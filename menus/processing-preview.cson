@@ -1,0 +1,11 @@
+'menu': [
+	{
+		'label': 'Packages'
+		'submenu': [
+			'label': 'Processing'
+			'submenu': [
+				{ 'label': 'Toggle Preview', 'command': 'processing-preview:toggle' }
+			]
+		]
+	}
+]
