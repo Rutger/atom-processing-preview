@@ -1,2 +1,3 @@
 'atom-workspace':
   'shift-cmd-alt-p': 'processing-preview:toggle'
+  'shift-ctrl-alt-p': 'processing-preview:toggle'
