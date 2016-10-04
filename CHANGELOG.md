@@ -1,3 +1,6 @@
+## 0.1.2 - Bug fixes
+* Add support for renderer in `fullScreen()`
+
 ## 0.1.1 - Bug fixes
 * Fix `fullScreen()` support
 * Escape `pixelDensity()`
